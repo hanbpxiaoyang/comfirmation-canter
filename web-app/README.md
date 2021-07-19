@@ -11,3 +11,5 @@
 2 运行本地环境
 
 `npm run local`
+
+4 将代码放到github上
